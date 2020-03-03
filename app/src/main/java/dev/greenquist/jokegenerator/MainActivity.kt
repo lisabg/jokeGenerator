@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        loading_view.visibility = View.VISIBLE
+        loading_view.visibility = View.INVISIBLE
 
 
 
